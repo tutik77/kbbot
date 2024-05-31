@@ -3,7 +3,7 @@ import sqlite3
 import datetime
 from datetime import timedelta
 
-bot = telebot.TeleBot('6873895553:AAFuFtFXFDwcPmvJJ3grT8uidsFfuSSHeGo')
+bot = telebot.TeleBot('88005553535')
 name = None
 fdate = None
 
